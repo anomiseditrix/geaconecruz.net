@@ -1,0 +1,36 @@
+* {
+	box-sizing: border-box;
+}
+
+body.landing header {
+	background-color: tomato;
+	text-align: center;
+}
+
+body.landing ul{
+	list-style-type: none;
+	text-align: center;
+}
+
+.content {
+	background-color: cyan;
+	display: inline-block;
+	width: 33%;
+	padding: 20px;
+	margin: 0;
+	text-align: center;
+}
+
+.content ul {
+	display: inline-block;
+	text-align: center;
+	list-style-type: none;
+}
+
+footer {
+	background-color: violet;
+}
+
+footer .social ul {
+	list-style-type: none; 
+}
